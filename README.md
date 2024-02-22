@@ -4,4 +4,4 @@
 - [ ] Apresentação
 - [ ] Projetos
 - [ ] Conhecimento
-- [ ] Orçamento
+- [ ] Orçamentos
